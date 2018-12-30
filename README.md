@@ -1,6 +1,8 @@
 python-scpi
 ===========
 
+FORKED FROM ORIGINAL REPO, I'M THE ORIGINAL OWNER.
+
 **New [asyncio][asyncio] version. Only for Python 3.5 and above**
 
 Since all the other wrappers either require VISA binary or are not generic (and do not implement the device I need)
